@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Muskan Tomar
 
-🎓**CS Student ┃ Learning via Harvard CS50**
+🎓**CS Student ┃ Learning via Harvard CS50**  
 Week 0: Building my first project with scratch
 
 **🧠CS50 Progress:**  
