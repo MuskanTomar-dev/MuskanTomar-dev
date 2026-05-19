@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋 I'm Muskan Tomar
 
-<!--
-**MuskanTomar-dev/MuskanTomar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓**CS Student ┃ Learning via Harvard CS50**
+Week 0: Building my first project with scratch
 
-Here are some ideas to get you started:
+**🧠CS50 Progress:**  
+-🔁Week 0: Scratch- Working on Problem set 0  
+-⏳Week 1: C- coming next  
+-⏳Week 2: Arrays  
+-⏳Week 3-10: Algorithms → Python → Web Dev  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**💻Currently using:** 
+-Scratch
+
+**🎯Current Goal:**
+Finish my Scratch project and submit Pset 0. Then onto C and 'mario.C'
+
+---
+*This is CS50* 😄
