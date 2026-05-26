@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Muskan Tomar
 
-##🎓**CS Student ┃ Learning via Harvard CS50x**  
+##🎓**CS Student ┃ Learning via Harvard CS50**  
 Week 1: Currently Working on Pset1 in C
 
-##**🧠CS50x Progress:**  
+##**🧠CS50 Progress:**  
 -✅Week 0: Completed **Problem set 0 :Scratch game**(my first project ever🎮)    
 -🔁Week 1: C- in progress('mario','cash','credit')   
 -⏳Week 2: Arrays coming next  
@@ -16,4 +16,4 @@ Week 1: Currently Working on Pset1 in C
 Ship 'mario.c' this week. Then tackle arrays/memory in Week 2.  
 
 ---
-*This is CS50x* 😄
+*This is CS50* 😄
