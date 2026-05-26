@@ -4,7 +4,7 @@
 Week 1: Currently Working on Pset1 in C
 
 ##**🧠CS50 Progress:**  
--✅Week 0: Completed **Problem set 0 :Scratch game** → **my first game ever🎮**  
+-✅Week 0: Completed **Problem set 0 :Scratch game**(my first project ever🎮)    
 -🔁Week 1: C- in progress('mario','cash','credit')   
 -⏳Week 2: Arrays coming next  
 -⏳Week 3-10: Algorithms → Python → SQL → Web Dev  
